@@ -28,9 +28,9 @@ A simple and elegant Todo List application built with React, featuring drag-and-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Bhuvan1012/Todo-list
    cd todo-list-app
    ```
 2. Do `npm i` to install the packages
 3. Do `npm start` to run the application
-4. Can also check deployed link:
+4. Can also check deployed link: https://todo-list-9u1x.onrender.com
